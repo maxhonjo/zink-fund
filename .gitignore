@@ -2,3 +2,4 @@ node_modules/
 client/dist/
 .env
 .railway/
+docs/sessions/tech_*.md
